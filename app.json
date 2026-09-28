@@ -14,6 +14,14 @@
         "backgroundColor": "#0F3D2E"
       }
     },
-    "ios": { "bundleIdentifier": "com.abdo.dailynoor", "supportsTablet": false }
+    "ios": {
+      "bundleIdentifier": "com.abdo.dailynoor",
+      "supportsTablet": false
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9a8b6d53-53c2-4d14-b071-71f28a72c7e6"
+      }
+    }
   }
 }
