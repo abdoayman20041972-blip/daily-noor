@@ -4,13 +4,13 @@
     "slug": "beta-application-",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./icon.png",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
     "backgroundColor": "#0E1512",
     "android": {
       "package": "com.abdo.dailynoor",
       "adaptiveIcon": {
-        "foregroundImage": "./adaptive-icon.png",
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0F3D2E"
       }
     },
