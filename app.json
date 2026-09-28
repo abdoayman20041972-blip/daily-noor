@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "نور اليوم",
+    "slug": "daily-noor",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#0E1512",
+    "android": {
+      "package": "com.abdo.dailynoor",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0F3D2E"
+      }
+    },
+    "ios": { "bundleIdentifier": "com.abdo.dailynoor", "supportsTablet": false }
+  }
+}
